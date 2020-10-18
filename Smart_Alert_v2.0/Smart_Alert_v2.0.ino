@@ -2,8 +2,8 @@
 #include <WiFi.h>              
 #include "DHT.h"
 
-#define FIREBASE_HOST "smart-alert-3c52e.firebaseio.com"      // Project name address from firebase id
-#define FIREBASE_AUTH "wCNlU75e3zXIcSRN32ZPfDJj6s3OrwODSrm6T1cG"            //  Secret key generated from firebase
+#define FIREBASE_HOST "xxx.firebaseio.com"      // Project name address from firebase id
+#define FIREBASE_AUTH "xxx"            //  Secret key generated from firebase
 
 #define WIFI_SSID "Guest Wifi"                                     // Enter your wifi name
 #define WIFI_PASSWORD "shuvopodder"                  //Enter your wifi password
