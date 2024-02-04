@@ -18,3 +18,5 @@
 Login               | Dashboard               | Home               |  Splash
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![Screenshot_20210712-200711_Smart Alert-Login](https://github.com/shuvopodder/Smart-Alert/assets/38353778/58cd90ce-d35d-494e-a7f9-e75489ec8b79)|![Screenshot_20210712-200630_Smart Alert-Dashboard](https://github.com/shuvopodder/Smart-Alert/assets/38353778/953c085a-20cb-4343-9952-46a782b61dbc)|![Screenshot_20210712-200624_Smart Alert-Home](https://github.com/shuvopodder/Smart-Alert/assets/38353778/2aac0b02-cb4c-425e-804f-70917f8e61cf)|![Screenshot_20210712-200615_Smart Alert-Splash](https://github.com/shuvopodder/Smart-Alert/assets/38353778/aadb440e-c558-447f-b6e1-ecb7f8eb5163)|
+
+[Feedback](http://shuvopodder.com/index.html#contact)
