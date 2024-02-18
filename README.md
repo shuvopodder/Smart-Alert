@@ -1,5 +1,5 @@
 # Smart Alert
-## Version 1 : 
+## v1 : 
 ### 1. Features
    - Detect gas, flame, temperature with different sensors.
    - Alert by high pitch alarm along with via phone call, sms in case not present.
@@ -8,7 +8,7 @@
 
 ![SmartAlertCircuitBoard](https://github.com/shuvopodder/Smart-Alert/assets/38353778/9d62d4db-653b-4273-b1e3-c17bf26ff7f6)
 
-## Version 2: Dev
+## v2.0.dev :
 ### 1. Features (Beta)
    - Different sensors device (Temperature & humidity, Gas).
    - Monitor room environment with real time data view in APP.
